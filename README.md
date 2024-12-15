@@ -1,3 +1,4 @@
 # harjutamine.txt
 Tegemist on versioonihalduse harjutamisega GitHubis.
 GitHub on veebiplatvorm tarkvarakoodi hostimiseks ja ühiseks arendamiseks, kasutades Git versiooni juhtimissüsteemi. Seda kasutavad programmeerijad ja tarkvaraarendajad, ettevõtted ja organisatsioonid, avatud projektid (avatud lähtekoodiga), õppeasutused ja üliõpilased, disainerid ja teadlased.
+GitHubi asutasid 2008.aastal Tom Preston-Worth, Peter Agee ja Scott Checker. Ettevõte loodi kõigepealt selleks, et hõlbustada arendajate koostööd, kasutades Linus Torvaldsi välja töötatud giti versioonikontrollisüsteemi. 2008.aastal käivitati ka Githubi teenus ise, mis on sellest ajast alates tänu kasutatavusele ja võimsatele koostöövahenditele arendajate seas kiiresti populaarsust kogunud. 2018.aastal omandas Microsoft Githubi, mis võimaldas platvormil veelgi laiendada arendajate võimalusi kogu maailmas.
